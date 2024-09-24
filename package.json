@@ -4,7 +4,8 @@
   "description": "Learning GHA and testing",
   "main": "index.js",
   "scripts": {
-    "test": "jest --forceExit"
+    "test": "jest --forceExit",
+    "build": "echo 'Building project...'"
   },
   "keywords": [],
   "author": "",
